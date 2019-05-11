@@ -1,5 +1,8 @@
 #!/bin/bash
 
+## Copyright (C) 2019 - 2019 ENCRYPTED SUPPORT LP <adrelanos@riseup.net>
+## See the file COPYING for copying conditions.
+
 CHROOT_DIRECTORY="/home/user/whonix-desktop/chroot"
 RAW_DIRECTORY="/home/user/whonix-desktop"
 WHONIX_RAW_FILE="Hardened-Debian-XFCE-15.0.0.1.1-12-g51fee9cd24ced70e20244d6aea7e81f8c56eda99.raw"
