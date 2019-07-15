@@ -1,0 +1,4 @@
+### Installing arc-theme (--no-install-recommends)
+### needs the following additional packages
+
+arc-theme gnome-themes-extra gnome-themes-extra-data gtk2-engines-murrine
