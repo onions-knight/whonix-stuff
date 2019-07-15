@@ -1,0 +1,7 @@
+### Link to download arc-icon-theme
+### unzip and cp to /usr/share/icons/ directory
+
+wget https://codeload.github.com/horst3180/arc-icon-theme/zip/master
+unzip master
+cp -r arc-icon-theme-master/Arc /usr/share/icons/
+chown -R 755 /usr/share/icons/Arc
